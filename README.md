@@ -50,10 +50,12 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
