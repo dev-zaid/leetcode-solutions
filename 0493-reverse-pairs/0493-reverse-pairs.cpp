@@ -43,13 +43,15 @@ public:
 
     int mergeSort(vector<int>& arr, int start, int end){
         int inv = 0;
-
-        if(start<end){
-            int mid = start + (end-start)/2;
-            inv += mergeSort(arr, start, mid);
-            inv += mergeSort(arr, mid+1, end);
-            inv += merge(arr, start, mid, end);
+        
+        if(start>=end){
+            return inv;
         }
+
+        int mid = start + (end-start)/2;
+        inv += mergeSort(arr, start, mid);
+        inv += mergeSort(arr, mid+1, end);
+        inv += merge(arr, start, mid, end);
 
         return inv;
     }
