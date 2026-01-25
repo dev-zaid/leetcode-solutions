@@ -112,4 +112,12 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
