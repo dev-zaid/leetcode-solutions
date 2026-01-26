@@ -50,6 +50,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dev-zaid/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -60,6 +61,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dev-zaid/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -120,4 +122,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
