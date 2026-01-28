@@ -59,6 +59,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0075-sort-colors](https://github.com/dev-zaid/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev-zaid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Two Pointers
@@ -141,4 +142,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
