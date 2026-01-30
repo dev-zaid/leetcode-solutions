@@ -4,7 +4,7 @@ public:
         int ans = 0;
 
         for(int val: nums){
-            ans = ans ^ val; // XOR cancels out the same elements
+            ans ^= val; // XOR cancels out the same elements
         }
 
         return ans;
