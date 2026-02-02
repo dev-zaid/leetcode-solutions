@@ -6,8 +6,8 @@ public:
 
         for(int i=0; i<s.length(); i++){
             // Find and update the left pointer to the index after the previously occured char
-            if(characterMap[s[i]] != -1){
-                lp = max(lp, characterMap[s[i]] + 1);
+            if(characterMap[s[i]] >= lp){
+                lp = characterMap[s[i]] + 1;
             }
 
             // Add index of the character to the map
