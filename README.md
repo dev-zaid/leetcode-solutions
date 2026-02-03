@@ -66,6 +66,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,10 +153,12 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-zaid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
