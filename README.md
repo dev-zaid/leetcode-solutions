@@ -69,6 +69,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0056-merge-intervals](https://github.com/dev-zaid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dev-zaid/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,6 +120,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -130,6 +133,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -189,4 +193,20 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
