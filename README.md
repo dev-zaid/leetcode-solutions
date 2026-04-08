@@ -96,6 +96,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dev-zaid/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-zaid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -180,4 +182,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
