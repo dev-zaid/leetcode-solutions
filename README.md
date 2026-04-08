@@ -70,6 +70,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dev-zaid/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,10 +191,12 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,4 +213,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
