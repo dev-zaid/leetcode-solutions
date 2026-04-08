@@ -55,6 +55,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/dev-zaid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dev-zaid/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -173,6 +174,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
