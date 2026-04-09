@@ -83,6 +83,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/dev-zaid/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/dev-zaid/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -173,6 +174,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0037-sudoku-solver](https://github.com/dev-zaid/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/dev-zaid/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -234,6 +236,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/dev-zaid/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
