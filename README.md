@@ -55,6 +55,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/dev-zaid/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/dev-zaid/leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -189,6 +190,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/dev-zaid/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
 ## Depth-First Search
