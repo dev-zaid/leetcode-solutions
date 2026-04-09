@@ -65,6 +65,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dev-zaid/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev-zaid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +119,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -195,6 +197,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0039-combination-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/dev-zaid/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
