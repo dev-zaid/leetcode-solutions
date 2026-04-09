@@ -96,6 +96,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev-zaid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/dev-zaid/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-zaid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/dev-zaid/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -193,6 +195,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0039-combination-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/dev-zaid/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 ## Depth-First Search
 |  |
 | ------- |
