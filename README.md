@@ -106,6 +106,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/dev-zaid/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Monotonic Stack
 |  |
@@ -211,6 +212,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -256,9 +258,11 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
