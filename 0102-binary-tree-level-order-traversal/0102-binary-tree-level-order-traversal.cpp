@@ -13,7 +13,7 @@
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        if (root == NULL) return {};
+        if (!root) return {};
         queue<TreeNode*> q;
 
         vector<vector<int>> ans;
