@@ -215,6 +215,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -269,6 +270,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -280,6 +282,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -290,5 +293,6 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
