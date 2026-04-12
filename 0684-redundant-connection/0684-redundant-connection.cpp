@@ -13,7 +13,11 @@ public:
 
             if(rootU==rootV) return edge;
 
-            parents[rootU] = rootV;
+            if(rootU>rootV){
+                parents[rootV] = rootU;
+            }else{
+                parents[rootU] = rootV;
+            }
         }
 
         return {};
