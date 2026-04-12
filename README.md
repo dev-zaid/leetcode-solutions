@@ -229,6 +229,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -258,6 +259,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0101-symmetric-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Linked List
@@ -318,8 +320,13 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
