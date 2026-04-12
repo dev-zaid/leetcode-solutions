@@ -186,6 +186,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/dev-zaid/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -266,12 +267,14 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0025-reverse-nodes-in-k-group](https://github.com/dev-zaid/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/dev-zaid/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Tree
 |  |
@@ -315,4 +318,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
