@@ -231,6 +231,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0145-binary-tree-postorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dev-zaid/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dev-zaid/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -267,6 +268,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/dev-zaid/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/dev-zaid/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -330,6 +332,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/dev-zaid/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Design
 |  |
@@ -344,4 +347,5 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/dev-zaid/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
