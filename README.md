@@ -68,6 +68,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0090-subsets-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev-zaid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -175,6 +176,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dev-zaid/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/dev-zaid/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
@@ -225,6 +227,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/dev-zaid/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -259,6 +262,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0101-symmetric-tree](https://github.com/dev-zaid/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/dev-zaid/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -328,5 +332,6 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/dev-zaid/leetcode-solutions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
