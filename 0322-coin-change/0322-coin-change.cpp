@@ -1,32 +1,37 @@
 class Solution {
 public:
-    int solver(int idx, int target, vector<int>& arr, vector<vector<int>> &dp){
-        if(target == 0) return 0;
-        if(idx == 0){
-            if(target % arr[idx] == 0) return target/arr[idx];
-            else return 1e9;
-        };
-
-        if(dp[idx][target] != -1) return dp[idx][target];
-
-
-        int notTake = 0 + solver(idx-1, target, arr, dp);
-        int take = 1e9;
-
-        if(target >= arr[idx]){
-            take = 1 + solver(idx, target - arr[idx], arr, dp);
+    int solver(int n, int target, vector<int>& arr, vector<vector<int>>& dp) {
+        // Tabulization
+        //  base case
+        for (int i = 1; i <= target; i++) {
+            if (i % arr[0] == 0)
+                dp[0][i] = i / arr[0];
+            else
+                dp[0][i] = 1e9;
         }
 
-        return dp[idx][target] = min(notTake, take);
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j < target + 1; j++) {
+                int notTake = 0 + dp[i - 1][j];
+                int take = 1e9;
+
+                if (j >= arr[i]) {
+                    take = 1 + dp[i][j - arr[i]];
+                }
+
+                dp[i][j] = min(notTake, take);
+            }
+        }
+
+        int ans = dp[n - 1][target];
+        return ans < 1e9 ? ans : -1;
     }
 
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
 
-        vector<vector<int>> dp(n, vector<int>(amount+1, -1));
-        int ans = solver(n-1, amount, coins, dp);
+        vector<vector<int>> dp(n, vector<int>(amount + 1, 0));
 
-
-        return ans < 1e9 ? ans : -1;
+        return solver(n, amount, coins, dp);
     }
 };
