@@ -58,6 +58,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0039-combination-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/dev-zaid/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/dev-zaid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/dev-zaid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/dev-zaid/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -105,6 +106,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/dev-zaid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev-zaid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/dev-zaid/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -142,6 +144,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/dev-zaid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
