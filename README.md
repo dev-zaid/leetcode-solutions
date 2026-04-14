@@ -80,6 +80,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/dev-zaid/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dev-zaid/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Two Pointers
 |  |
@@ -253,6 +254,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/dev-zaid/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2073-time-needed-to-buy-tickets](https://github.com/dev-zaid/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
@@ -359,4 +361,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0207-course-schedule](https://github.com/dev-zaid/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/dev-zaid/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
