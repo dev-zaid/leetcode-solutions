@@ -83,6 +83,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dev-zaid/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/dev-zaid/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/dev-zaid/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/dev-zaid/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +196,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/dev-zaid/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/dev-zaid/leetcode-solutions/tree/master/2596-check-knight-tour-configuration) |
+| [2965-find-missing-and-repeated-values](https://github.com/dev-zaid/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -207,6 +210,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/dev-zaid/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
