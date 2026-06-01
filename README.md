@@ -70,6 +70,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dev-zaid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/dev-zaid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/dev-zaid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -102,6 +103,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0056-merge-intervals](https://github.com/dev-zaid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dev-zaid/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -146,6 +148,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dev-zaid/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/dev-zaid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
@@ -202,6 +205,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0141-linked-list-cycle](https://github.com/dev-zaid/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/dev-zaid/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/dev-zaid/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/dev-zaid/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -271,6 +275,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/dev-zaid/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Breadth-First Search
 |  |
