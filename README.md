@@ -50,6 +50,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dev-zaid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/dev-zaid/leetcode-solutions/tree/master/0031-next-permutation) |
@@ -202,6 +203,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dev-zaid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/dev-zaid/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/dev-zaid/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
