@@ -178,6 +178,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/dev-zaid/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev-zaid/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
