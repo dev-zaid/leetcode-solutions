@@ -121,6 +121,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0131-palindrome-partitioning](https://github.com/dev-zaid/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/dev-zaid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/dev-zaid/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -180,6 +181,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | ------- |
 | [0007-reverse-integer](https://github.com/dev-zaid/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/dev-zaid/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 | [0025-reverse-nodes-in-k-group](https://github.com/dev-zaid/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/dev-zaid/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/dev-zaid/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -382,4 +385,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/dev-zaid/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
