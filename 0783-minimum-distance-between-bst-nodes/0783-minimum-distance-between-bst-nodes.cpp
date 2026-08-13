@@ -6,8 +6,7 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
- * right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
 class Solution {
@@ -15,25 +14,21 @@ public:
     TreeNode* prev = NULL;
     int minDist = INT_MAX;
     int minDiffInBST(TreeNode* root) {
-        if (root == NULL) {
-            return INT_MAX;
-        }
-        // inorder traversal
-        // left
-        if (root->left) {
+        if(root==NULL) return INT_MAX;
+
+        if(root->left){
             int leftMin = minDiffInBST(root->left);
-            minDist = min(minDist, leftMin);
+            minDist = min(leftMin, minDist);
         }
 
-        // root
-        if (prev)
-            minDist = min(minDist, root->val - prev->val);
+        if(prev){ 
+            minDist = min(minDist, root->val-prev->val);
+        }
         prev = root;
 
-        // right
-        if (root->right) {
+        if(root->right){
             int rightMin = minDiffInBST(root->right);
-            minDist = min(minDist, rightMin);
+            minDist = min(rightMin, minDist);
         }
 
         return minDist;
