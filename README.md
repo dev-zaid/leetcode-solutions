@@ -389,4 +389,8 @@ I'm always open to discussing algorithms, system design, or tech in general. Fee
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dev-zaid/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/dev-zaid/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
